@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-git-syncer",
 	"name": "Git Syncer",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"minAppVersion": "0.15.0",
 	"description": "Syncing obsidian vaults via git on any device!",
 	"author": "Jawa",

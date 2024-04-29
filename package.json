@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-git-syncer",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "Syncing obsidian vaults via git on any device!",
 	"main": "main.js",
 	"scripts": {
